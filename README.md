@@ -18,7 +18,7 @@ ollama pull deepseek-r1:8b
 
 3. Clone the repository:
 ```bash
-git clone https://github.com/langchain-ai/ollama-deep-researcher.git
+git clone https://github.com/johnfeng2023/ollama-deep-researcher.git
 cd ollama-deep-researcher
 ```
 
