@@ -4,8 +4,6 @@ Ollama Deep Researcher is a fully local web research assistant that uses any LLM
 
 ![research-rabbit](https://github.com/user-attachments/assets/4308ee9c-abf3-4abb-9d1e-83e7c2c3f187)
 
-Short summary:
-<video src="https://github.com/user-attachments/assets/02084902-f067-4658-9683-ff312cab7944" controls></video>
 
 ## 🚀 Quickstart
 
